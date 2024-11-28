@@ -1,0 +1,8 @@
+- username: johannes.kirchner
+  password:
+  # encrypted of kataras_pass
+  role: admin
+- username: christoph.salowski
+  password:
+  # encrypted of kataras_pass
+  role: member
